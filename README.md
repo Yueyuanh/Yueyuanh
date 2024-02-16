@@ -9,5 +9,3 @@
 - 🚲 Fun fact: I'm just a newbie, please give me some advice.
 - 📫 How to reach me: You may contact me through:Email:Yueyuanhaoo@gmail.com、QQ:3117144922
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yueyuanh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
